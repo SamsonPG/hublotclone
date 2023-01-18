@@ -446,7 +446,9 @@ padding-left: 20px;
 }
 @media screen and (max-width: 400px) {
     
-    .hublotinsta{
-        display: none !important;
+    .btn-insta{
+        width: 90px !important;
+/*         display: none !important; */
     }
+    
 }
