@@ -25,7 +25,9 @@ padding-left: 20px;
 }
 .navbar .navbar-collapse {
     text-align: center;
+    max-width: 99% !important;
   }
+
 .btn {
     height: 56px !important;
     width: 75px !important;
