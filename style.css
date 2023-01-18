@@ -444,7 +444,7 @@ padding-left: 20px;
     }  
     
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 350px) {
     
     .btn-insta{
         width: 90px !important;
